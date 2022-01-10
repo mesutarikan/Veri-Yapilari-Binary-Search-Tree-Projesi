@@ -1,5 +1,5 @@
 # Veri-Yapilari-Binary-Search-Tree-Projesi
-## İkili Arama Ağacı Yapımı-
+## İkili Arama Ağacı Yapımı
 ### Aşağıdaki sayı dizisi için bir İkili Arama Ağacı (BST) oluşturun-
 ```
 [7,5,1,8,3,6,0,9,4,2]
